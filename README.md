@@ -1,2 +1,2 @@
 # PythonProjectHandler
-A small Powershell Scripty to handle redundant steps in making a new Python Project.
+A small Powershell Script to handle redundant steps in making a new Python Project.
